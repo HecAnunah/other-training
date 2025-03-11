@@ -9,5 +9,3 @@ def say_hello():
 def say_bye():
     print("Bye...")
 
-
-print(say_bye())
